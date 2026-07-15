@@ -18,7 +18,5 @@ Computer Science undergraduate focused on DevOps, cloud technologies, and automa
 - Kubernetes
 
 ### Projects
-- Containerized Web Application Deployment using Docker & Nginx
-
-📍 Lahore, Pakistan
-🔗 LinkedIn: linkedin.com/in/shereen-hasnainprofile.
+Containerized Web Application Deployment | Docker + Nginx
+📍 Lahore, PakistanLinkedIn: https://www.linkedin.com/in/shereen-hasnain-b71708350/
