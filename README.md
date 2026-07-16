@@ -44,9 +44,3 @@ I enjoy learning how development and operations work together to create efficien
 - DevOps Best Practices
 
 ---
-
-## 🤝 Connect With Me
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: [Shereen Hasnain](https://www.linkedin.com/in/shereen-hasnain-b71708350/)
-- 🐙 GitHub: [Shereen0128](https://github.com/Shereen0128)
