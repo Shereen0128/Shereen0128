@@ -1,6 +1,6 @@
-# Hi, I'm Shereen 👋
+# Hi, I'm Shereen Hasnain 👋
 
-## 🚀 Aspiring DevOps Engineer
+## 🚀 DevOps Engineer
 
 Computer Science undergraduate passionate about **DevOps, Cloud Technologies, Automation, and building reliable software delivery pipelines.**
 
