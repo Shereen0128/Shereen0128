@@ -1,8 +1,8 @@
 # Hi, I'm Shereen Hasnain 👋
 
-## 🚀 DevOps Engineer
+🚀 DevOps Engineer
 
-Computer Science undergraduate passionate about **DevOps, Cloud Technologies, Automation, and building reliable software delivery pipelines.**
+Computer Science undergraduate passionate about DevOps, Cloud Technologies, Automation, and building reliable software delivery pipelines.
 
 I enjoy learning how development and operations work together to create efficient, scalable, and automated systems.
 
@@ -10,57 +10,66 @@ I enjoy learning how development and operations work together to create efficien
 
 ## 🛠️ Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,linux,bash,python,cpp,mysql" />
-</p>
+### 🚀 DevOps & Tools
 
-### DevOps & Tools
-- 🐳 Docker
-- 🔧 Git & GitHub
-- ⚙️ GitHub Actions
-- 🐧 Linux Fundamentals
-- ☸️ Kubernetes
-- 📦 Docker Compose
-- 🔄 CI/CD
+🐳 Docker  
+🔧 Git & GitHub  
+⚙️ Jenkins  
+🚀 GitHub Actions  
+🐧 Linux  
+☸️ Kubernetes  
+📦 Docker Compose  
+⛵ Helm  
+🔄 CI/CD  
 
-### Programming
-- 🐍 Python
-- 💻 C++
+### 💻 Programming
+
+🐍 Python  
+💻 C++
 
 ---
 
 ## 🚀 Projects
 
-### 📦 Production CI/CD Platform
+### 📦 Jenkins Kubernetes Deployment Pipeline
 
-**Technologies:** GitHub Actions, Docker, Docker Hub, Kubernetes, React, Nginx
+🛠️ **Technologies:** Jenkins, Docker, Docker Hub, Kubernetes, Helm, Minikube
 
-- Built a CI/CD pipeline using GitHub Actions, Docker, and Kubernetes.
-- Automated Docker image build and push through GitHub Actions.
-- Deployed application on Kubernetes with scaling and rollback testing.
+✨ Built a CI/CD pipeline using Jenkins to automate Docker image building and Kubernetes deployment.  
+✨ Created Helm charts for managing Kubernetes resources with upgrade and rollback support.  
+✨ Deployed and managed containerized applications on Minikube.
+
+---
+
+### 📦 Automated CI Pipeline
+
+🛠️ **Technologies:** GitHub Actions, Docker, Python
+
+✨ Built an automated CI pipeline using GitHub Actions.  
+✨ Automated testing and Docker image build workflow.
 
 ---
 
 ### 📦 Containerized Web Application Deployment
 
-**Technologies:** Docker, Nginx, GitHub Actions
+🛠️ **Technologies:** Docker, Nginx
 
-- Containerized a static web application using Docker.
-- Configured Nginx as a web server.
-- Practiced Docker build automation and debugging.
+✨ Containerized a static web application using Docker.  
+✨ Configured Nginx as a web server.  
+✨ Practiced Docker build, deployment, and debugging.
 
 ---
 
 ## 📚 Currently Learning
 
-- Kubernetes
-- Cloud Technologies
-- Infrastructure Automation
-- DevOps Best Practices
+☸️ Kubernetes Advanced Concepts  
+☁️ Cloud Technologies  
+🏗️ Infrastructure Automation  
+📊 Monitoring & Logging  
+🚀 DevOps Best Practices  
 
 ---
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: https://github.com/Shereen0128
-- 🔗 LinkedIn: https://www.linkedin.com/in/shereen-hasnain-b71708350/
+💻 GitHub: https://github.com/Shereen0128
