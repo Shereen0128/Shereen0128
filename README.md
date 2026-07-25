@@ -17,7 +17,18 @@ I enjoy working at the intersection of development and operations to automate wo
 <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,kubernetes,githubactions,linux" />
 </p>
 
-Git • GitHub • Docker • Docker Compose • Docker Hub • Jenkins • GitHub Actions • CI/CD • Kubernetes • kubectl • Minikube • Helm
+• Git 
+• GitHub 
+• Docker 
+• Docker Compose 
+• Docker Hub 
+• Jenkins 
+• GitHub Actions 
+• CI/CD 
+• Kubernetes 
+• kubectl 
+• Minikube 
+• Helm
 
 
 ## 💻 Programming Languages
@@ -26,7 +37,8 @@ Git • GitHub • Docker • Docker Compose • Docker Hub • Jenkins • GitH
 <img src="https://skillicons.dev/icons?i=python,cpp" />
 </p>
 
-Python • C++
+• Python 
+• C++
 
 
 ## 🗄️ Database
@@ -35,7 +47,8 @@ Python • C++
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-MySQL • SQL
+• MySQL 
+• SQL
 
 
 ## ⚙️ Systems & Configuration
@@ -44,7 +57,11 @@ MySQL • SQL
 <img src="https://skillicons.dev/icons?i=linux,bash,nginx" />
 </p>
 
-Linux • Bash • Nginx • YAML • Groovy
+• Linux 
+• Bash 
+• Nginx 
+• YAML 
+• Groovy
 
 
 ---
